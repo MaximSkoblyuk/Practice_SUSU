@@ -1,0 +1,1 @@
+var arr: array[1..N] of Real;
