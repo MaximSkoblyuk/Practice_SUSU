@@ -1,1 +1,1 @@
-var arr: array[1..N] of Real;
+var a1, a: array[-1 ..1] f integer;
